@@ -9,7 +9,7 @@
 | Harry      | Silvestre |
 | Camila     | Will      |
 | Jay        | Dom       |
-| Íris       | Silvestre |
+| Íris       | Almeida   |
 | Victor     | Heitor    |
 | Connor     | Ormo      |
 
@@ -18,7 +18,9 @@
 ## Descrição dos jogadores
 
 
-#### Victor
+## Victor
+
+![Ficha do Victor](Imagens/Fichas/FichaVictor.jpg "Moço bonito, moço formoso")
 
 * Foi agente da KGB
 * Entrou na KGB como agente de campo, mas eventualmente foi transferido para a diretoria de Eso-operações
@@ -37,7 +39,10 @@
 **Signo:** Câncer
 **Temperamento:** Colérico
 
-#### Jay
+## Jay
+
+![Ficha da Jay](Imagens/Fichas/FichaJay재.jpg "muito egirl pronta pra fuder teu psicologico")
+
 * E-girl
 * Sério problema com energéticos
 * Psicológico terrivelmente instável
@@ -60,7 +65,10 @@
 | **2**  | Ódio incontrolável  | Próprio sangue sobre seu olho |
 | **8**  | Detectar paranormal | Fonte de energia              |
 
-#### Connor
+## Connor
+
+![Ficha do Connor](Imagens/Fichas/FichaConnor.jpg "nerd bobao")
+
 * Nerd esquisito e irritante
 * Filho de enfermeira
 * Perdeu o pai pra um zumbi de sangue ainda novo
@@ -83,7 +91,10 @@
 | :----: | ------------------------- | -------------- |
 | **5**  | Envelhecimento localizado | Cinzas humanas |
 
-#### Camila
+## Camila
+
+![Ficha da Camila](Imagens/Fichas/FichaCamila.jpg "imagina ser brasileiro")
+
 * Líder
 * Péssima líder (tentando aprender a ser)
 * Psicológico estável
@@ -101,7 +112,10 @@
 **Signo:** Áries
 **Temperamento:** Melancólico-Colérico
 
-#### Íris
+## Íris
+
+![Ficha da Íris](Imagens/Fichas/FichaIris.jpg "de quem foi a ideia de colocar uma gotica nisso")
+
 * Órfã, seus pais sumiram quando tinha 7 anos
 * Desde então, vive sozinha nas ruas da França, quando aprendeu a usar o paranormal para garantir sua sobrevivência. 
 * Tem um colar com um pingente da sua mãe. O amuleto dá sorte ao usuário. 
@@ -129,7 +143,10 @@
 | **4**  | Dissolver criatura de sangue | Corrente         |
 | **7**  | Dilaceração                  | Próprio sangue   |
 
-#### Harry estilos
+## Harry estilos
+
+![Ficha do Harry](Imagens/Fichas/FichaHarry.jpg "herlock sholmes")
+
 * Trabalha como detetive policial 
 * Trabalhou em um circo por um tempo, mas sofreu um acidente
 * É inseguro e tem medo de tomar iniciativas
