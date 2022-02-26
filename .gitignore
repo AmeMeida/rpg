@@ -11,6 +11,7 @@
 *.sln.docstates
 
 /out
+README.html
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs

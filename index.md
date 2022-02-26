@@ -31,13 +31,13 @@
 * Muito supersticioso.
 > Suas superstições levam a sorte dele a agir da forma que ele espera que agiriam. Ver um gato preto, passar por baixo de uma escada ou assoviar dentro de casa resultam em diminuição do atributo de sorte. No entanto, amuletos de sorte tem o dobro do efeito nele, assim como superstições de boa sorte. 
 
-**Arma:** Espingarda serrada calibre 12 de ação basculante (break action), barril duplo. 
-*Também tem um facão, mas você não vai querer descobrir isso.*
-**Nacionalidade:** Tankie
-**Idade:** 45
-**Altura:** 1,87
-**Signo:** Câncer
-**Temperamento:** Colérico
+**Arma:** Espingarda serrada calibre 12 de ação basculante (break action), barril duplo. <br>
+*Também tem um facão, mas você não vai querer descobrir isso.* <br>
+**Nacionalidade:** Tankie <br>
+**Idade:** 45 <br>
+**Altura:** 1,87 <br>
+**Signo:** Câncer <br>
+**Temperamento:** Colérico <br>
 
 ## Jay
 
@@ -51,12 +51,12 @@
 * Gosta muito de explosivos
 * Odeia barulho
 
-**Arma:** Kit de explosivos e uma adaga decorada com o brasão da família
-**Nacionalidade:** Coreana
-**Idade:** 28
-**Altura:** 1,71
-**Signo:** Gêmeos
-**Temperamento:** Fleumático
+**Arma:** Kit de explosivos e uma adaga decorada com o brasão da família <br>
+**Nacionalidade:** Coreana <br>
+**Idade:** 28 <br>
+**Altura:** 1,71 <br>
+**Signo:** Gêmeos <br>
+**Temperamento:** Fleumático <br>
 
 > Rituais
 
@@ -78,12 +78,12 @@
 * Fã de Madonna
 * Odeia mulheres
 
-**Arma:** Revólver .38, clipe de 6 cartuchos. Leva sempre um caniteve e um isqueiro. 
-**Nacionalidade:** Irlandês
-**Idade:** 21
-**Altura:** 1,60
-**Signo:** Aquário 
-**Temperamento:** Fleumático-melancólico
+**Arma:** Revólver .38, clipe de 6 cartuchos. Leva sempre um caniteve e um isqueiro. <br>
+**Nacionalidade:** Irlandês <br>
+**Idade:** 21 <br>
+**Altura:** 1,60 <br>
+**Signo:** Aquário <br>
+**Temperamento:** Fleumático-melancólico <br>
 
 > Rituais
 
@@ -105,12 +105,12 @@
 * Medo de machucar quem ela ama
 * Gosta de ficar abraçando pessoas e fazendo high-five toda hora
 
-**Arma:** Glock com clipe de 19 cartuchos. Leva sempre uma faca.
-**Nacionalidade:** Brasileira :face_vomiting:
-**Idade:** 28
-**Altura:** 1,75
-**Signo:** Áries
-**Temperamento:** Melancólico-Colérico
+**Arma:** Glock com clipe de 19 cartuchos. Leva sempre uma faca. <br>
+**Nacionalidade:** Brasileira :face_vomiting: <br>
+**Idade:** 28 <br>
+**Altura:** 1,75 <br>
+**Signo:** Áries <br>
+**Temperamento:** Melancólico-Colérico <br>
 
 ## Íris
 
@@ -127,12 +127,12 @@
 * Odeia pessoas felizes
 * Odeia algodão-doce
 
-**Arma:** Um cutelo de cozinha. Que sadismo.
-**Nacionalidade:** Francesa
-**Idade:** 26
-**Altura:** 1,68
-**Signo:** Escorpião
-**Temperamento:** Melancólico
+**Arma:** Um cutelo de cozinha. Que sadismo. <br>
+**Nacionalidade:** Francesa <br>
+**Idade:** 26 <br>
+**Altura:** 1,68 <br>
+**Signo:** Escorpião <br>
+**Temperamento:** Melancólico <br>
 
 > **Rituais**
 
@@ -155,12 +155,12 @@
 * Tem pavor de alturas e fogo (não se aplica a armas)
 * Viciado em café
 
-**Arma:** Revólver Colt .357, barril de 6 cartuchos. 
-**Nacionalidade:** Yankee
-**Idade:** 32
-**Altura:** 1,75
-**Signo:** Peixes
-**Temperamento:** Sanguíneo
+**Arma:** Revólver Colt .357, barril de 6 cartuchos. <br>
+**Nacionalidade:** Yankee <br>
+**Idade:** 32 <br>
+**Altura:** 1,75 <br>
+**Signo:** Peixes <br>
+**Temperamento:** Sanguíneo <br>
 
 ---
 
