@@ -20,7 +20,7 @@
 
 ## Victor
 
-![Ficha do Victor](./Imagens/Fichas/FichaVictor.jpg "Moço bonito, moço formoso")
+![Ficha do Victor](./docs/assets/images/FichaVictor.jpg "Moço bonito, moço formoso")
 
 * Foi agente da KGB
 * Entrou na KGB como agente de campo, mas eventualmente foi transferido para a diretoria de Eso-operações
@@ -41,7 +41,7 @@
 
 ## Jay
 
-![Ficha da Jay](./Imagens/Fichas/FichaJay재.jpg "muito egirl pronta pra fuder teu psicologico")
+![Ficha da Jay](./docs/assets/images/FichaJay재.jpg "muito egirl pronta pra fuder teu psicologico")
 
 * E-girl
 * Sério problema com energéticos
@@ -67,7 +67,7 @@
 
 ## Connor
 
-![Ficha do Connor](./Imagens/Fichas/FichaConnor.jpg "nerd bobao")
+![Ficha do Connor](./docs/assets/images/FichaConnor.jpg "nerd bobao")
 
 * Nerd esquisito e irritante
 * Filho de enfermeira
@@ -93,7 +93,7 @@
 
 ## Camila
 
-![Ficha da Camila](./Imagens/Fichas/FichaCamila.jpg "imagina ser brasileiro")
+![Ficha da Camila](./docs/assets/images/FichaCamila.jpg "imagina ser brasileiro")
 
 * Líder
 * Péssima líder (tentando aprender a ser)
@@ -114,7 +114,7 @@
 
 ## Íris
 
-![Ficha da Íris](./Imagens/Fichas/FichaIris.jpg "de quem foi a ideia de colocar uma gotica nisso")
+![Ficha da Íris](./docs/assets/images/FichaIris.jpg "de quem foi a ideia de colocar uma gotica nisso")
 
 * Órfã, seus pais sumiram quando tinha 7 anos
 * Desde então, vive sozinha nas ruas da França, quando aprendeu a usar o paranormal para garantir sua sobrevivência. 
@@ -145,7 +145,7 @@
 
 ## Harry estilos
 
-![Ficha do Harry](./Imagens/Fichas/FichaHarry.jpg "herlock sholmes")
+![Ficha do Harry](./docs/assets/images/FichaHarry.jpg "herlock sholmes")
 
 * Trabalha como detetive policial 
 * Trabalhou em um circo por um tempo, mas sofreu um acidente
