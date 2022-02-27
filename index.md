@@ -15,17 +15,6 @@
 
 ---
 
-> **Rituais**
-
-| Número | Nome                         | Ingredientes     |
-| :----: | ---------------------------- | ---------------- |
-| **1**  | Gritos                       | Arame farpado    |
-| **3**  | Eletrocutação                | Fonte de energia |
-| **4**  | Dissolver criatura de sangue | Corrente         |
-| **7**  | Dilaceração                  | Próprio sangue   |
-
----
-
 ## Rituais
 
 | Número | Nome                         |          Elemento          | Descrição                                                                                                                                                                                                                                                                             |
