@@ -15,6 +15,9 @@
 
 ---
 
-* [Personagens](/personagens/index.html)
+## Conteúdo:
 
-* [Rituais](/mecanicas/rituais/rituais.html)
+> ### [ ***Personagens*** ](/personagens/index.html)
+> - Lista com todos os personagens e suas descrições.
+> ### [ ***Rituais*** ](/mecanicas/rituais/rituais.html)
+> - Lista de rituais e informações sobre eles.
