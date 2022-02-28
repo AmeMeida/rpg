@@ -1,6 +1,6 @@
-## Íris
+# Íris
 
-<p><img src="docs/assets/images/FichaIris.jpg" width="550" height="550" alt="Ficha da Íris" title="de quem foi a ideia de colocar uma gotica nisso"></p>
+<p><img src="/docs/assets/images/FichaIris.jpg" width="550" height="550" alt="Ficha da Íris" title="de quem foi a ideia de colocar uma gotica nisso"></p>
 
 * Órfã, seus pais sumiram quando tinha 7 anos
 * Desde então, vive sozinha nas ruas da França, quando aprendeu a usar o paranormal para garantir sua sobrevivência. 

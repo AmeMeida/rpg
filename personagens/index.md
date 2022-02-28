@@ -13,4 +13,7 @@
    > Detetive policial americano, ex-malabarista, inseguro e cheio de fobias. Só serve pra ser plot hook.
 
 5. [Íris](Íris/iris.html)
-   > Órfã francesa que perdeu os pais cedo. Aprendeu a usar o paranormal como meio de se defender e sobreviver na rua. 
+   > Órfã francesa que perdeu os pais cedo. Aprendeu a usar o paranormal como meio de se defender e sobreviver na rua. Única que presta aqui.
+
+6. [Connor](Connor/connor.html)
+   > Nerd irlandês com sérios vícios. Um rapaz bem problemático e irritante. 

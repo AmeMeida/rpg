@@ -1,6 +1,6 @@
-## Camila
+# Camila
 
-<p><img src="docs/assets/images/FichaCamila.jpg" width="550" height="550" alt="Ficha da Camila" title="imagina ser brasileiro"></p>
+<p><img src="/docs/assets/images/FichaCamila.jpg" width="550" height="550" alt="Ficha da Camila" title="imagina ser brasileiro"></p>
 
 * Líder
 * Péssima líder (tentando aprender a ser)

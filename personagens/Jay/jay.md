@@ -1,6 +1,6 @@
-## Jay
+# Jay
 
-<p><img src="docs/assets/images/FichaJay%EC%9E%AC.jpg" width="550" height="550" alt="Ficha da Jay" title="muito egirl pronta pra fuder teu psicologico"></p>
+<p><img src="/docs/assets/images/FichaJay%EC%9E%AC.jpg" width="550" height="550" alt="Ficha da Jay" title="muito egirl pronta pra fuder teu psicologico"></p>
 
 * E-girl
 * Sério problema com energéticos

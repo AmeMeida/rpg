@@ -1,6 +1,6 @@
-## Harry estilos
+# Harry estilos
 
-<p><img src="docs/assets/images/FichaHarry.jpg" width="550" height="550" alt="Ficha do Harry" title="herlock sholmes"></p>
+<p><img src="/docs/assets/images/FichaHarry.jpg" width="550" height="550" alt="Ficha do Harry" title="herlock sholmes"></p>
 
 * Trabalha como detetive policial 
 * Trabalhou em um circo por um tempo, mas sofreu um acidente

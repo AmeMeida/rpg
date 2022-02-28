@@ -1,6 +1,6 @@
-## Connor
+# Connor
 
-<p><img src="docs/assets/images/FichaConnor.jpg" width="550" height="550" alt="Ficha do Connor" title="nerd bobao"></p>
+<p><img src="/docs/assets/images/FichaConnor.jpg" width="550" height="550" alt="Ficha do Connor" title="nerd bobao"></p>
 
 * Nerd esquisito e irritante
 * Filho de enfermeira
