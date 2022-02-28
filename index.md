@@ -11,7 +11,7 @@
 | Jay        | Dom       |
 | Íris       | Almeida   |
 | Victor     | Heitor    |
-| Connor     | Ormo      |
+| Connor     | ???????   |
 
 ---
 
