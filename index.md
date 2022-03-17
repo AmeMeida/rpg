@@ -8,10 +8,10 @@
 | ---------- | --------- |
 | Harry      | Silvestre |
 | Camila     | Will      |
-| Jay        | Dom       |
+| Jay        | Ormo/Parra|
 | Íris       | Almeida   |
 | Victor     | Heitor    |
-| Connor     | ???????   |
+| Connor     | Luanna    |
 
 ---
 
